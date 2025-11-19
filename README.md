@@ -57,7 +57,3 @@ Critérios de avaliação
 - Testes passando.
 - Uso correto de transações e tratamento de erros.
 - Considerações sobre concorrência (pontos extras).
-
-Submissão
----------
-Envie um PR ou um zip do projeto com as mudanças. Inclua no README as decisões tomadas e pontos a serem melhorados.
